@@ -72,7 +72,7 @@ body::-webkit-scrollbar {
       width: 50%;
       height: 100%;
       z-index: -1;
-      background-color: #000;
+      background-color: #8C52FF;
       -webkit-transition: all 0.3s ease 0s;
       -o-transition: all 0.3s ease 0s;
       transition: all 0.3s ease 0s;
@@ -213,7 +213,7 @@ body::-webkit-scrollbar {
 	color: #FDFDFD;
 	font-family: 'DM Sans', "sans-serif";
 	font-weight: 700;
-	background-color: #6244C5;
+	background-color: #8C52FF;
 	border-radius: 16px;
 	padding: 22px 40px 23px 40px;
 	display: inline-block;
@@ -417,7 +417,7 @@ body::-webkit-scrollbar {
 	content: "";
 	width: 64px;
 	height: 64px;
-	background-color: #FFC448;
+	background-color: #8C52FF;
 	border-radius: 100%;
 	left: 50%;
 	transform: translateX(-50%);
@@ -431,7 +431,7 @@ body::-webkit-scrollbar {
 	right: 0px;
 	position: absolute;
 	z-index: 1;
-	background-color: #6244C5;
+	background-color: #8C52FF;
 	
 	-webkit-transition: all .5s ease;
 	   -moz-transition: all .5s ease;
@@ -462,7 +462,7 @@ body::-webkit-scrollbar {
 	fill: #fff;
 }
 .orido_tm_service .service_list ul li.mleave .number{
-	color: #6244C5;
+	color: #8C52FF;
 }
 .orido_tm_service .service_list ul li.mleave .title{
 	color: var(--main-color);
@@ -550,13 +550,13 @@ body::-webkit-scrollbar {
 	width: 6px;
 	height: 6px;
 	border-radius: 100%;
-	background-color: #F26440;
+	background-color: #8C52FF;
 	top: 50%;
 	transform: translateY(-50%);
 	left: 0px;
 }
 .orido_tm_news .metabox a:hover{
-	color: #F26440;
+	color: #8C52FF;
 }
 .orido_tm_news .title a{
 	font-size: 20px;
@@ -647,7 +647,7 @@ body::-webkit-scrollbar {
     width: 6px;
     height: 6px;
     z-index: 100;
-    background-color: #6244C5;
+    background-color: #8C52FF;
     -webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
     transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
   }
@@ -656,7 +656,7 @@ body::-webkit-scrollbar {
     margin-top: -40px;
     width: 80px;
     height: 80px;
-    background-color: #6244C5;
+    background-color: #8C52FF;
     opacity: .3;
   }
   .cursor-outer {
@@ -664,7 +664,7 @@ body::-webkit-scrollbar {
     margin-top: -15px;
     width: 30px;
     height: 30px;
-    border: 2px solid #6244C5;
+    border: 2px solid #8C52FF;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
     z-index: 100;
