@@ -11,6 +11,7 @@ module.exports = {
       inter: ['Inter', "sans-serif"],
       dm: ['DM Sans', "sans-serif"],
       oswald: ['Oswald', "sans-serif"],
+      monteserrat: ['Montserrat", sans-serif'],
       kaushan: ['Kaushan Script', "cursive"],
     },
     extend: {
