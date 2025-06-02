@@ -377,7 +377,6 @@ function orido_tm_popup(){
 	});
 	jQuery('.popup-youtube, .popup-vimeo').each(function() { // the containers for all your galleries
 		jQuery(this).magnificPopup({
-			disableOn: 700,
 			type: 'iframe',
 			mainClass: 'mfp-fade',
 			removalDelay: 160,
