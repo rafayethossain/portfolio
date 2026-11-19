@@ -1,59 +1,43 @@
-# Rafayet Hossain — Portfolio
+# Rafayet Hossain
 
-Business System Analyst · IT Project Manager · SQA Engineer · Lean Six Sigma Black Belt
+**Business System Analyst &middot; IT Project Manager &middot; SQA Engineer**
 TechnoVista Limited, Dhaka, Bangladesh
 
 Live: **[rafayethossain.github.io/portfolio](https://rafayethossain.github.io/portfolio/)**
 
 ---
 
-## What this is
+I take the brief as it comes. I ask the questions nobody else does.
 
-A handcrafted, single-page portfolio. No framework, no build step, no template — plain HTML, CSS and vanilla JavaScript, deployable as-is to GitHub Pages.
+Eight years, it's the same job every time: the business says one thing, the engineering team builds another, and the thing that ships doesn't get used. I work in that handoff. I sit with the people who feel the problem, pull the real requirement out of the room, write it down so precisely that a developer can build from it and a manager can sign it off — then stay close through testing and rollout until "done" actually means "used."
 
-The page is built as one argument: eight years spent in the handoff between what a business needs and what the engineering team builds. Everything is drawn from real work — Vista.Q, Eco-Tourism Sundarbans (live), Integrated Online Application System (CARE Bangladesh), Tottho Apa MIS, Broadcast Management System — with no invented testimonials or client names beyond what clients have approved.
+I came up on the technical side first. My degree is in Computer Science &amp; Engineering, and my first role was as a software engineer before I moved into analysis. That order matters: I have been the developer who received the vague ticket, so now I write requirements the way I'd want to receive them.
 
-## Tech
+Since 2018, at TechnoVista Limited, I've worked as a business system analyst across garments, government, broadcast, and international development. I'm a certified Lean Six Sigma Black Belt, which is a formal way of saying I don't trust a process until I've measured it.
 
-- Semantic HTML5 with Open Graph, Twitter Card and JSON-LD (`Person`) metadata
-- CSS design system (custom properties): Fraunces + Inter + JetBrains Mono
-  - Deep lavender (`#412F6B` / `#2A2237`) on warm sand (`#FBF8F1`), copper accents
-- Vanilla JavaScript (IntersectionObserver-based reveals, counters, custom cursor, magnetic buttons, video lightbox over the YouTube embed)
-- `prefers-reduced-motion` respected throughout; closed mobile menu hidden from keyboard focus
-- Lighthouse: Accessibility **100** · Best Practices **100**
+## How I work
 
-## Structure
+- **Requirements before solutions.** The question nobody asks is usually the one that decides the project.
+- **Write it, then make it testable.** Every requirement has an acceptance path. If it can't be tested, it isn't defined.
+- **Stay for adoption.** Go-live is not the finish line. Training and post-implementation reviews are.
+- **Keep the scope honest.** When priorities shift, I surface the trade-offs early instead of after the budget burns.
 
-```
-.
-├── index.html            # The page
-├── 404.html              # On-brand not-found page
-├── robots.txt            # Allow all
-└── assets/
-    ├── css/style.css     # Design system + all section styles
-    ├── js/main.js        # Motion, navigation, lightbox
-    └── img/              # Portraits, project shots, brand assets
-```
+## What I do
 
-Legacy build configuration (`package.json`, `tailwind.config.js`, `postcss.config.js`, `src/`) is retained from the earlier version and is unused by the current site.
+Business analysis · project management (Agile, Waterfall, hybrid) · software testing and QA (CMMI-aligned, Lean Six Sigma) · process mapping and documentation · user acceptance testing and training · technical writing.
 
-## Run locally
+## Selected work
 
-```bash
-python -m http.server 8125 --bind 127.0.0.1
-# open http://127.0.0.1:8125
-```
+- **Vista.Q** — quality monitoring system for readymade garment manufacturers: process mapping, requirements, UAT and factory-floor training. 170k+ pieces a day, 8 factories, 12 modules.
+- **Eco-Tourism Sundarban** — digitized visitor management and ticketing for the Sundarbans, now a live public portal (Bangladesh Forest Department).
+- **Integrated Online Application System** — one system for HR, leave, payroll, fleet and approvals for CARE Bangladesh, with full data migration; supports 500+ staff.
+- **Tottho Apa MIS (Phase II)** — management information system for a women's empowerment programme across 492 information centres; HR for 2,000+ staff, a live view of 6 million beneficiaries.
+- **Broadcast Management System** — scheduling, content and ad placement for a TV channel, from stakeholder interviews through UAT with the people who go live daily.
 
-Any static file server works. The site has no build step and no external dependencies beyond Google Fonts.
+## Writing
 
-## Publishing
-
-The repository is served directly via GitHub Pages from `main` (root). After committing and pushing, Pages rebuilds in a minute or two. A hard refresh (Ctrl+Shift+R) may be needed to bypass the CDN cache.
+I write about the parts of projects that get skipped — communication, requirements, and keeping a plan honest. Longer pieces on [Medium](https://rafayethossain.medium.com/); demos and walkthroughs on [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured).
 
 ## Contact
 
-- Email: [rafayet14@gmail.com](mailto:rafayet14@gmail.com)
-- WhatsApp: [+880 1710 493613](https://wa.me/8801710493613)
-- LinkedIn: [linkedin.com/in/rafayethossain](https://www.linkedin.com/in/rafayethossain/)
-- Writing: [Medium](https://rafayethossain.medium.com/) · [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured)
-- GitHub: [@rafayethossain](https://github.com/rafayethossain)
+Email **[rafayet14@gmail.com](mailto:rafayet14@gmail.com)** · WhatsApp [+880 1710 493613](https://wa.me/8801710493613) · [LinkedIn](https://www.linkedin.com/in/rafayethossain/) · [GitHub](https://github.com/rafayethossain)
